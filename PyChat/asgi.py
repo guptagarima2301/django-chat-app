@@ -1,3 +1,4 @@
+# this file is pychat
 """
 ASGI config for PyChat project.
 
